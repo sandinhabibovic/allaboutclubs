@@ -75,7 +75,7 @@ class MyHomePage extends StatelessWidget {
                 onPressed: () {
                   ref.read(settingsChangeProvider.notifier).toggle();
                 },
-                icon: const Icon(Icons.filter_alt_outlined));
+                icon: const Icon(Icons.filter_list));
           })
         ],
       ),

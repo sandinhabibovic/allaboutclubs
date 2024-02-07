@@ -1,4 +1,4 @@
-import 'package:allaboutclubs/logic/ApiService.dart';
+import 'package:allaboutclubs/logic/api_service.dart';
 import 'package:allaboutclubs/logic/models/club.dart';
 import 'package:allaboutclubs/logic/settings.dart';
 import 'package:dio/dio.dart';
