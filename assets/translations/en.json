@@ -1,0 +1,23 @@
+{
+    "countries": {
+        "Deutschland": "Germany",
+        "Spanien": "Spain",
+        "Italien": "Italy",
+        "Frankreich": "France",
+        "Österreich": "Austria",
+        "England": "England",
+        "Niederlande": "Netherlands"
+    },
+    "millions": "{} millions",
+    "back_to_homepage": "Back to Homepage",
+    "page_not_found": "Page could not be accessed",
+    "the_club": "The Club ",
+    "from_has_a_value": " from {} has a value of {} million Euros.",
+    "has_so_far": "{} has so far ",
+    "titles": {
+        "one": "{} title",
+        "other": "{} titles"
+    },
+    "comparison": "{} / {}",
+    "at_european_level": " at the European level."
+}

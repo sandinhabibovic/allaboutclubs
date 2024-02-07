@@ -1,0 +1,23 @@
+{
+    "countries": {
+        "Deutschland": "Deutschland",
+        "Spanien": "Spanien",
+        "Italien": "Italien",
+        "Frankreich": "Frankreich",
+        "Österreich": "Österreich",
+        "England": "England",
+        "Niederlande": "Niederlande"
+    },
+    "millions": "{} Millionen",
+    "back_to_homepage": "Zurück zur Startseite",
+    "page_not_found": "Seite konnte nicht aufgerufen werden",
+    "the_club": "Der Club ",
+    "from_has_a_value": " aus {} hat einen Wert von {} Millionen Euro.",
+    "has_so_far": "{} konnte bislang ",
+    "titles": {
+        "one": "{} Sieg",
+        "other": "{} Siege"
+    },
+    "comparison": "{} / {}",
+    "at_european_level": " auf europäischer Ebene erreichen."
+}
